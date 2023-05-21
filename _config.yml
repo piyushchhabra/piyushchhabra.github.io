@@ -34,7 +34,7 @@ show_aboutme_card: true
 # about_me_title: The will be displayed as the title in the About Me section
 about_me_title: About Me
 # about_me_description: This will be displayed under the title.
-about_me_description: A seasoned engineer with 7+ years of experience in Software Development. Expert in developing software solutions using Java (Spring-Boot), NodeJs and ReactJs. Proven track record of leading large-scale software development projects and working with cross-functional teams. Seeking to leverage my skills and experience to take on new challenges in software development. <br/> I am currently working at <a class="highlight-link" href="https://www.atlassian.com/" target="_blank" rel="noreferrer"> Atlassian </a> and building the next generation of Customer Support Systems.
+about_me_description: A seasoned engineer with 7+ years of experience in Software Development. Expert in developing software solutions using Java (Spring-Boot), NodeJs and ReactJs. Proven track record of leading large-scale software development projects and working with cross-functional teams. Seeking to leverage my skills and experience to take on new challenges in software development. <br/> I am currently working at <a class="highlight-link" href="https://www.atlassian.com/" target="_blank" rel="noreferrer"> Atlassian </a> and building their next generation of Customer Support Systems.
 
 # SKILLS SECTION
 # show_skills_card:

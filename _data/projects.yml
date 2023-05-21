@@ -20,7 +20,7 @@
     - tag: MongoDB
     - tag: Express
     - tag: ReactJs
-    - tag: Node
+    - tag: Azure
 
 - name: Gametales
   descr: "Gametales is a fun and creative way to send messages to your loved ones. I built it when I was free during a summer break and I wanted to learn game development. It lets you create a game out of the message you want to send and then generates a unique link for you that you can share with your friends and family."
@@ -29,4 +29,4 @@
     - tag: MongoDB
     - tag: Express
     - tag: PhaserJS
-    - tag: Node
+    - tag: Azure
