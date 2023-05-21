@@ -13,21 +13,19 @@
 #     - tag: AngularJS
 #     - tag: Node
 
-- name: project X
-  descr: "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam"
-  demo: https://example.com/
+- name: Mindmap App
+  descr: "Mindmap is a digital journal that helps you remember important details about people. You can add people in your mindmap and then add facts about them like their birthdays, anniversaries, facourite food etc. It sends you weekly notifications about upcoming event in the week so that you never forget any colleague's work-anniversary or relative's birthday."
+  demo: https://themindmap.app
   tags:
     - tag: MongoDB
     - tag: Express
-    - tag: AngularJS
+    - tag: ReactJs
     - tag: Node
 
-- name: project Y
-  descr: "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam"
-  demo: https://example.com/
+- name: Gametales
+  descr: "Gametales is a fun and creative way to send messages to your loved ones. I built it when I was free during a summer break and I wanted to learn game development. It lets you create a game out of the message you want to send and then generates a unique link for you that you can share with your friends and family."
+  demo: https://gametales-live.web.app/?ref=st&t=demo
   tags:
-    - tag: Python
-    - tag: Django
-
-- name: project Z
-  descr: "You can also set a project without demo link and no tags"
+    - tag: PhaserJS
+    - tag: Node
+    - tag: Express

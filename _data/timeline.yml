@@ -17,45 +17,53 @@
 #     - tag: Rails
 #   timeline-side: right
 
-- title: airbnb
-  title-url: https://example.com/
-  date: Sep 2019 - Present
-  subtitle: Fullstack Developer
+- title: Atlassian
+  title-url: https://www.atlassian.com/
+  date: May 2021 - Present
+  subtitle: Senior Engineer
   tags:
     - tag: React
-    - tag: Javascript
-    - tag: Ruby
-    - tag: Rails
-  timeline-side: right
-
-- title: Google
-  title-url: https://example.com/
-  date: Mar 2019 - Sep 2019
-  subtitle: Software Engineer as Intern
-  tags:
-    - tag: Flutter
-    - tag: Dart
-    - tag: Keycloak
-  timeline-side: right
-
-- title: Super University
-  title-url: https://example.com/
-  date: 2017 - 2019
-  subtitle: M.Sc. Computer Science
+    - tag: Java
+    - tag: Spring Boot
+    - tag: Jira
   timeline-side: left
 
-- title: Facebook
-  title-url: https://example.com/
-  date: Sep 2017 - Mar 2019
-  subtitle: Front-End Developer as Intern
+- title: Flipkart
+  title-url: https://www.flipkart.com/
+  date: Jan 2019 - Apr 2021
+  subtitle: Software Engineer
   tags:
-    - tag: React
-    - tag: Node
-    - tag: Javascript
+    - tag: Java
+    - tag: Dropwizard & Guice
+    - tag: Kafka
+    - tag: Spark
+    - tag: HBase
+    - tag: MongoDB
   timeline-side: right
 
-- title: Super University
-  title-url: https://example.com/
-  date: 2014 - 2017
-  subtitle: B.A. Computer Science
+- title: Blackbuck
+  title-url: https://www.blackbuck.com/
+  date: Jun 2018 - Dec 2018
+  subtitle: Full Stack Engineer
+  timeline-side: left
+  tags:
+    - tag: Java
+    - tag: Sprint Boot
+    - tag: Vue JS
+    - tag: MySQL
+
+- title: IVY Global
+  title-url: https://ivy.global/
+  date: Jun 2016 - Jun 2018
+  subtitle: Software Developer
+  tags:
+    - tag: Java
+    - tag: Spring Boot
+    - tag: Spring MVC
+  timeline-side: right
+
+- title: GGU Central University
+  title-url: https://www.ggu.ac.in/
+  date: 2012 - 2016
+  subtitle: B.Tech (Bachlors) in Computer Science
   timeline-side: left
