@@ -22,9 +22,9 @@
     - tag: ReactJs
     - tag: Azure
 
-- name: Gametales
-  descr: "Gametales is a fun and creative way to send messages to your loved ones. I built it when I was free during a summer break and I wanted to learn game development. It lets you create a game out of the message you want to send and then generates a unique link for you that you can share with your friends and family."
-  demo: https://gametales-live.web.app/?ref=st&t=demo
+- name: Gmail Bridge
+  descr: "Get instant notifications on telegram for your filtered emails in Gmail. <br/><br/>I built it using React JS, Express JS and a telegram bot. It helps you get instant telegram notifications for filtered emails in Gmail and It does not require full Gmail acoount access like Zapier."
+  demo: https://www.gmailbridge.com/
   tags:
     - tag: MongoDB
     - tag: Express

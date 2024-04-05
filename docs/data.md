@@ -1,11 +1,11 @@
-# Documentation for _data/*.yml files
+# Documentation for \_data/\*.yml files
 
 ## projects.yml
 
-* `name`: Name of your project
-* `descr`: Description of your project
-* `demo`: Link to your project
-* `tags`: List of technologies you used in your projects
+- `name`: Name of your project
+- `descr`: Description of your project
+- `demo`: Link to your project
+- `tags`: List of technologies you used in your projects
 
 Example of a project:
 
@@ -22,8 +22,8 @@ Example of a project:
 
 ## skills-frameworks.yml
 
-* `name`: Name of your framework
-* `weight`: Describes how good you know the framework - values from 1 up to 5
+- `name`: Name of your framework
+- `weight`: Describes how good you know the framework - values from 1 up to 5
 
 Example of a framework:
 
@@ -34,8 +34,8 @@ Example of a framework:
 
 ## skills-languages.yml
 
-* `name`: Name of your programming language
-* `weight`: Describes how good you know the language - values from 1 up to 5
+- `name`: Name of your programming language
+- `weight`: Describes how good you know the language - values from 1 up to 5
 
 Example of a language:
 
@@ -46,8 +46,8 @@ Example of a language:
 
 ## skills-tools.yml
 
-* `name`: Name of your dev tool
-* `weight`: Describes how good you know the tool - values from 1 up to 5
+- `name`: Name of your dev tool
+- `weight`: Describes how good you know the tool - values from 1 up to 5
 
 Example of a dev tool:
 
@@ -58,12 +58,12 @@ Example of a dev tool:
 
 ## timeline.yml
 
-* `title`: Name of your timeline entry, university or work place
-* `title-url`: Link to your timeline entry, university or work place
-* `date`: Time span
-* `subtitle`: The description under the title
-* `tags`: List of tags you want to associate with the entry
-* `timeline-side`: The side on which you want to display the entry - left or right
+- `title`: Name of your timeline entry, university or work place
+- `title-url`: Link to your timeline entry, university or work place
+- `date`: Time span
+- `subtitle`: The description under the title
+- `tags`: List of tags you want to associate with the entry
+- `timeline-side`: The side on which you want to display the entry - left or right
 
 Example of a timeline entry:
 
